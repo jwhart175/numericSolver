@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NumericSolver</string>
+    <string name="action_settings">Settings</string>
+    <string name="numGames">0</string>
+    <string name="deviously">Deviously Simple... Reduce all numbers to zero.  Game will automatically restart if a number falls below zero.</string>
+    <string name="gamesCompleted">Games Completed:</string>
+    <string name="restart">RESTART</string>
+    <string name="skip">SKIP</string>
+    <string name="zero">0</string>
+
+</resources>
